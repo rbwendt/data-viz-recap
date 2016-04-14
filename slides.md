@@ -1,3 +1,9 @@
+# Meetup recap
+
+Most of this comes (with permission) from Lisa Shiller's talk here on Tuesday
+night. I can supply her better slide deck to anyone who is interested.
+
+
 # What is data viz?
 
 Placing data in visual context
@@ -10,9 +16,15 @@ Placing data in visual context
 
 
 Napolean's March in Russia
+![napolean.png](napolean.png)
+
+
+The Best Stats You've Ever Seen
+![hans.jpg](hans.jpg)
 
 
 Vizualizing the facebook network
+![fb](fb.png)
 
 
 
@@ -34,13 +46,3 @@ Vizualizing the facebook network
 
 # Graph Guidelines
 5) Code multiple graphs consistently: Allow the reader to relate multiple graphs together so it can paint a larger picture.
-
-
-
-![illusions](illusions1.png)
-
-
-![illusions](illusions2.png)
-
-
-![illusions](illusions3.png)
