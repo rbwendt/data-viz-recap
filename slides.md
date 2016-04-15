@@ -1,7 +1,7 @@
 # Meetup recap
 
-Most of this comes (with permission) from Lisa Shiller's talk here on Tuesday
-night. I can supply her better slide deck to anyone who is interested.
+I was going to recap Lisa Shiller's talk here on Tuesday
+night. She's doing an L&L next week, so let's do a primer.
 
 
 # What is data viz?
@@ -9,40 +9,30 @@ night. I can supply her better slide deck to anyone who is interested.
 Placing data in visual context
 
 
-> “Visualizing data is like photography. Instead of starting with a blank canvas, you manipulate the lens
-> used to present the data from a certain angle.”
+> The idea is to go from numbers to information to understanding.
 >
-> Paul Butler, Engineer at Google NYC
+> Hans Rosling
 
 
-Napolean's March in Russia
-![napolean.png](napolean.png)
+[Flowing Data](http://flowingdata.com/) is a great site for checking this stuff
+out.
 
 
-The Best Stats You've Ever Seen
-![hans.jpg](hans.jpg)
+![australia](australia.jpg)
+
+[beyond the sea - Andy Woodruff](http://andywoodruff.com/blog/beyond-the-sea/)
 
 
-Vizualizing the facebook network
-![fb](fb.png)
+![ruby throated hummingbird migration](birdmap.gif)
+
+[ruby throated hummingbird migration](http://www.hummingbirds.net/map.html)
 
 
+![nearest airport](nearest-airport.png)
 
-# Graph Guidelines
-1) Use physical dimensions judged without bias. Be mindful of perceptual illusions.
-
-
-# Graph Guidelines
-2) Consider the task: Know the intention of the graph and what information you want to communicate.
+[nearest airport - Jason Davies](http://knowmore.washingtonpost.com/2014/04/11/a-crazy-looking-map-that-always-shows-you-where-the-nearest-airport-is/)
 
 
-# Graph Guidelines
-3) Minimize the number of mental operations: Reduces mental workload and error in judgment.
+![hans.jpg](hans.gif)
 
-
-# Graph Guidelines
-4) Keep the data-ink ratio high: Minimize the amount of ink that does not depict actual data points or the relation between those points. Eliminate clutter.
-
-
-# Graph Guidelines
-5) Code multiple graphs consistently: Allow the reader to relate multiple graphs together so it can paint a larger picture.
+[The Best Stats You've Ever Seen - Hans Rosling](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=en)
